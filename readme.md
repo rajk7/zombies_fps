@@ -1,5 +1,5 @@
 # Unity Zombie FPS 
-This is the example of zombie defence fps game. Kill the zombies to obtain the cash and upgrade your weapon or buy powerful weapons!
+This is zombie defence fps game. Kill the zombies to obtain the cash and upgrade your weapon or buy powerful weapons!
 
 ## Screenshots
 ![screenshot1](Screenshot1.png)
